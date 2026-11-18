@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+runs/
+logs/
+smoke/
+data/benchmarks/
+*.tmp
+.env
+google-research/
+.DS_Store

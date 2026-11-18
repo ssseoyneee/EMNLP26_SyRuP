@@ -1,0 +1,15 @@
+torch==2.6.0
+transformers==4.55.4
+datasets==3.4.1
+huggingface-hub==0.36.0
+accelerate==1.5.2
+pyarrow==19.0.1
+numpy
+tqdm
+# evaluation
+openai==2.14.0
+aiolimiter==1.2.1
+absl-py
+langdetect==1.0.9
+nltk==3.9.1
+immutabledict
